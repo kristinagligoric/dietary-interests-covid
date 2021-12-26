@@ -33,7 +33,7 @@
                 This folder contains all the code necessary for reproducing the results reported in the manuscript.
                 The code is in the format of Jupyter notebooks. Once the notebook is evaluated, figures are saved in the figures folder, in pdf format. The input for the analyses is loaded from foodle-trends/data folder. The main results are computed in Notebooks 1-4.
                 Please see which figure is produced in the corresponding notebook:
-                Maps.ipynb: Fig 1B and 1B
+                Maps.ipynb: Fig 1A, 1B, 1C
                 Notebook_1.ipynb: Fig 3A, Fig 6, Fig 7B, Fig S5, Fig S8, Fig S10, Fig S12B
                 Notebook_2.ipynb: Fig 5, Fig 7A, Fig S12A
                 Notebook_3.ipynb: Fig 3B, Fig 4B, Fig S2A
